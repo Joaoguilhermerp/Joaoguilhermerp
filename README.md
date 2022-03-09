@@ -1,6 +1,6 @@
 ### Sejam bem-vindos!!! Meu nome é João Guilherme  
 
-- 🔭 Trabalhei por 10 anos no setor comercial e atualmente estou em migração de para Desenvolvimento/Programação. 
+- 🔭 Trabalhei por 10 anos no setor comercial e atualmente estou em migração para Desenvolvimento/Programação. 
 - 🌱 Estudando C#, .NET, JavaScript, Python, HTML e CSS.
 - 😄 Pronouns: ele/dele
 
