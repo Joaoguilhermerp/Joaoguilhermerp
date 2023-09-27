@@ -1,7 +1,7 @@
 ### Sejam bem-vindos!!! Meu nome é João Guilherme  
 
-- 🔭 Trabalhei por 10 anos no setor comercial e atualmente estou em migração para Desenvolvimento/Programação. 
-- 🌱 Estudando C#, .NET, JavaScript, Python, HTML e CSS.
+- 🔭 Trabalhei por 10 anos no setor comercial e atualmente estou trabalhando com Desenvolvimento que antes era um hobby, hoje é algo que vivo e aprendo mais diariamente. 
+- 🌱 Codando e estudando: C#, .NET, ASP.NET, VB.NET, JavaScript, PHP TypeScript, Angular, Node, Laravel, Ionic, HTML e CSS.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -18,6 +18,7 @@
   <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="joao-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="joao-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 </div>
   
