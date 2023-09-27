@@ -2,8 +2,8 @@
 
 - 🔭 Trabalhei por 10 anos no setor comercial e atualmente estou trabalhando com Desenvolvimento que antes era um hobby, hoje é algo que vivo e aprendo mais diariamente. 
 - 🌱 Codando e estudando: C#, .NET, ASP.NET, VB.NET, JavaScript, PHP TypeScript, Angular, Node, Laravel, Ionic, HTML e CSS.
-- 🏅 Certificado em Gestão de projetos pela Google - 2022
 - 👨‍🎓 Graduando de Ánalise e desenvolvimentos de sistemas - Formação em 2023 e Graduando de Engenharia de software - Formação em 2025.
+- 🏅 Certificado em Gestão de projetos pela Google - 2022
 - 📚 Cursando certificação profissional em Ánalise de dados pela Google e certificação profissional em Marketing e ecommerce.
 - 😄 Pronouns: ele/dele
 
